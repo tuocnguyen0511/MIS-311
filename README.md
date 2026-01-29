@@ -1,6 +1,9 @@
 # MIS 311 - Data analytic Project
+
 Dataset: Supermarket Sale
+
 Student: Nguyen Trong Tuoc
+
 IRR: 2432300332
 
 
